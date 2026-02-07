@@ -1,0 +1,8 @@
+{
+  "name": "14岁活泼女孩",
+  "created": "2026-01-26 09:54:38",
+  "design_instruct": "Girl, 14 years old, playful and lively",
+  "target_text": "人生经验，叫闷声大发财。",
+  "ref_audio": "reference.wav",
+  "type": "design"
+}
