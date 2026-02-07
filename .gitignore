@@ -15,12 +15,7 @@ __pycache__/
 venv/
 ENV/
 
-# 声音片段（个人数据）
-声音片段slicer_opt/
-声音片段文字asr_opt/
-cloned_voices/
-outputs/
-
 # 临时文件
+outputs/
 *.log
 *.backup-*
