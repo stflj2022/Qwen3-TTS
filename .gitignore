@@ -1,0 +1,26 @@
+# 模型文件（太大，通过脚本下载）
+models/*.safetensors
+models/speech_tokenizer/*.safetensors
+models-base/*.safetensors
+models-base/speech_tokenizer/*.safetensors
+models-voicedesign/*.safetensors
+models-voicedesign/speech_tokenizer/*.safetensors
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+ENV/
+
+# 声音片段（个人数据）
+声音片段slicer_opt/
+声音片段文字asr_opt/
+cloned_voices/
+outputs/
+
+# 临时文件
+*.log
+*.backup-*
